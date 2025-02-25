@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/abualmun/.gradle/daemon/7.5.1/com.Almarai.Almarai.launcher-mergeReleaseResources-3:/values-v28/values-v28.xml",
+            "map": [
+                {
+                    "source": "/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/packaged_res/release/values-v28/values-v28.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "8",
+                        "endOffsets": "229"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.Almarai.Almarai.launcher-mergeReleaseResources-3:/values-v28/values-v28.xml",
+            "map": [
+                {
+                    "source": "/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/packaged_res/release/values-v28/values-v28.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "10",
+                        "endOffsets": "228"
+                    }
+                }
+            ]
+        }
+    ]
+}
