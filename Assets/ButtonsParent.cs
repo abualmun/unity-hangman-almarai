@@ -1,7 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
 using TMPro;
+using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class ButtonsParent : MonoBehaviour
 {
@@ -16,6 +18,13 @@ public class ButtonsParent : MonoBehaviour
             {
                 TMP_Text buttonText = Instantiate(letterButtonPrebab,transform).GetComponentInChildren<TMP_Text>();
                 buttonText.text = letter.ToString();
+
+                if(letter == 's' ||letter == 'i' ||letter == 'r' ||letter == 'y' ||letter == 'ر'||letter == 'ب'){
+                    buttonText.transform.parent.GetComponent<Button>().interactable = false;
+
+                    buttonText.transform.parent.GetComponent<Button>().image.color = Color.green;
+                }
+
             }
         }
         

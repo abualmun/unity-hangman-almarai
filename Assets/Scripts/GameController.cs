@@ -30,27 +30,43 @@ public class GameController : MonoBehaviour
     int winScore;
     [SerializeField] Sprite englishWin;
     [SerializeField] Sprite arabicWin; 
-    
+    [SerializeField] SpriteRenderer tryAgainScreen;
+    [SerializeField] Sprite arabicTryAgain;
+    [SerializeField] Sprite englishTryAgain;
+    [SerializeField] GameObject arabicSentence;
+
+
     // Start is called before the first frame update
     void Start()
     {
+        arabicSentence.SetActive(false);
             audioSource = GetComponent<AudioSource>();
     }
 
     public void GenerateSlots(bool arabic){
+
+
 
         if (arabic){
             language = "ar";
             winScore = 8;
             sentence = ReverseString("شرب الحليب سر اللبيب");
             
+            wordSlots.gameObject.SetActive(false);
+            arabicSentence.SetActive(true);
+            wordSlots = arabicSentence.GetComponent<HorizontalLayoutGroup>();
+            words = sentence.Split(" ");
+            TryLetter("ب");
+        TryLetter("ر");
+return;
         } else {
             language = "en";
-            winScore = 16;
-            sentence = "drinking milk makes you think";
+            winScore = 14;
+            sentence = "milk everyday is the smart way";
             wordSlots.transform.localScale = new Vector3(.62f,.9f,.9f);
+            words = sentence.Split(" ");
         }
-        words = sentence.Split(" ");
+        
         
         int lettersBeforeThisWord = 0;
         foreach (string _word in words)
@@ -65,6 +81,12 @@ public class GameController : MonoBehaviour
             }
             lettersBeforeThisWord += _word.Length;
         }
+
+        TryLetter("i");
+        TryLetter("s");
+        TryLetter("r");
+        TryLetter("y");
+
     }
 
     public bool TryLetter(string letter){
@@ -130,6 +152,9 @@ public class GameController : MonoBehaviour
         audioSource.Play();
     }
     void Lose(){
+        if (language == "ar")   tryAgainScreen.GetComponentInChildren<SpriteRenderer>().sprite = arabicTryAgain;
+        if (language == "en")   tryAgainScreen.GetComponentInChildren<SpriteRenderer>().sprite = englishTryAgain;
+
         loseScreen.SetActive(true);
             gameEnded = true;
             audioSource.clip = clips[3];
