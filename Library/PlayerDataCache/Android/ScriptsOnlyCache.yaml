@@ -41,6 +41,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.GridLayoutGroup
     - UnityEngine.UI.HorizontalLayoutGroup
     - UnityEngine.UI.Image
+    - UnityEngine.UI.Text
   serializedClasses:
     Unity.TextMeshPro:
     - TMPro.FaceInfo_Legacy
@@ -71,6 +72,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.AnimationTriggers
     - UnityEngine.UI.Button/ButtonClickedEvent
     - UnityEngine.UI.ColorBlock
+    - UnityEngine.UI.FontData
     - UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
     - UnityEngine.UI.Navigation
     - UnityEngine.UI.SpriteState
@@ -78,6 +80,30 @@ ScriptsOnlyBuild:
   - assembly: Assembly-CSharp
     fullTypeName: LetterButtonScript
     methodName: OnButtonPressed
+  - assembly: Assembly-CSharp
+    fullTypeName: GameController
+    methodName: GenerateSlots
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: Assembly-CSharp
+    fullTypeName: GameController
+    methodName: GenerateSlots
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
   - assembly: Assembly-CSharp
     fullTypeName: GameController
     methodName: ReloadScene
@@ -93,6 +119,8 @@ ScriptsOnlyBuild:
     - Class: 20
       Script: {instanceID: 0}
     - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
       Script: {instanceID: 0}
     - Class: 28
       Script: {instanceID: 0}
@@ -148,6 +176,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 20058}
     - Class: 114
       Script: {instanceID: 20088}
+    - Class: 114
+      Script: {instanceID: 20316}
     - Class: 114
       Script: {instanceID: 20616}
     - Class: 114
@@ -657,7 +687,7 @@ ScriptsOnlyBuild:
     className: TMP_SpriteAsset
   - hash:
       serializedVersion: 2
-      Hash: eda288d9e5ec9f7c59a75a43e316fa8f
+      Hash: dcfa1dd2f525b64ac44fb023f855490f
     assemblyName: Assembly-CSharp
     namespaceName: 
     className: LetterScript
@@ -921,7 +951,7 @@ ScriptsOnlyBuild:
     className: TextMeshSpawner
   - hash:
       serializedVersion: 2
-      Hash: 6ae6479062fb425f2fdb914a6e303c66
+      Hash: 3ad6d3bf33978974291cec140a50db41
     assemblyName: Assembly-CSharp
     namespaceName: 
     className: GameController
