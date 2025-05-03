@@ -1,11 +1,11 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:2:1-23:12
+ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:2:1-22:12
 	package
 		INJECTED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml
-		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:2:1-23:12
+		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:2:1-22:12
 		INJECTED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml
 	xmlns:tools
 		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:2:70-116
@@ -15,106 +15,100 @@ uses-feature#0x00030000
 ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:3:3-52
 	android:glEsVersion
 		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:3:17-49
-uses-feature#android.hardware.vulkan.version
-ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:4:3-91
-	android:required
-		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:4:64-88
-	android:name
-		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:4:17-63
 uses-feature#android.hardware.touchscreen
-ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:5:3-88
+ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:4:3-88
 	android:required
-		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:5:61-85
+		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:4:61-85
 	android:name
-		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:5:17-60
+		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:4:17-60
 uses-feature#android.hardware.touchscreen.multitouch
-ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:6:3-99
+ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:5:3-99
 	android:required
-		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:6:72-96
+		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:5:72-96
 	android:name
-		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:6:17-71
+		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:5:17-71
 uses-feature#android.hardware.touchscreen.multitouch.distinct
-ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:7:3-108
+ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:6:3-108
 	android:required
-		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:7:81-105
+		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:6:81-105
 	android:name
-		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:7:17-80
+		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:6:17-80
 application
-ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:8:3-22:17
+ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:7:3-21:17
 	android:extractNativeLibs
-		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:8:16-48
+		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:7:16-48
 meta-data#unity.splash-mode
-ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:9:5-69
+ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:8:5-69
 	android:value
-		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:9:49-66
+		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:8:49-66
 	android:name
-		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:9:16-48
+		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:8:16-48
 meta-data#unity.splash-enable
-ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:10:5-74
+ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:9:5-74
 	android:value
-		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:10:51-71
+		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:9:51-71
 	android:name
-		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:10:16-50
+		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:9:16-50
 meta-data#unity.launch-fullscreen
-ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:11:5-78
+ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:10:5-78
 	android:value
-		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:11:55-75
+		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:10:55-75
 	android:name
-		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:11:16-54
+		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:10:16-54
 meta-data#android.max_aspect
-ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:12:5-73
+ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:11:5-73
 	android:value
-		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:12:50-70
+		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:11:50-70
 	android:name
-		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:12:16-49
+		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:11:16-49
 meta-data#unity.render-outside-safearea
-ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:13:5-85
+ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:12:5-85
 	android:value
-		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:13:61-82
+		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:12:61-82
+	android:name
+		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:12:16-60
+meta-data#unity.auto-report-fully-drawn
+ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:13:5-84
+	android:value
+		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:13:61-81
 	android:name
 		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:13:16-60
-meta-data#unity.auto-report-fully-drawn
-ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:14:5-84
-	android:value
-		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:14:61-81
-	android:name
-		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:14:16-60
 activity#com.unity3d.player.UnityPlayerActivity
-ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:15:5-21:16
+ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:14:5-20:16
 	android:maxAspectRatio
-		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:15:181-210
+		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:14:181-210
 	android:screenOrientation
-		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:15:111-148
+		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:14:111-148
 	android:launchMode
-		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:15:149-180
+		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:14:149-180
 	android:hardwareAccelerated
-		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:15:428-463
+		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:14:428-463
 	android:exported
-		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:15:464-487
+		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:14:464-487
 	android:resizeableActivity
-		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:15:393-427
+		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:14:393-427
 	android:configChanges
-		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:15:211-392
+		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:14:211-392
 	android:theme
-		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:15:69-110
+		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:14:69-110
 	android:name
-		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:15:15-68
+		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:14:15-68
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:16:7-19:23
+ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:15:7-18:23
 category#android.intent.category.LAUNCHER
-ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:17:9-69
+ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:16:9-69
 	android:name
-		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:17:19-66
+		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:16:19-66
 action#android.intent.action.MAIN
-ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:18:9-61
+ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:17:9-61
 	android:name
-		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:18:17-58
+		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:17:17-58
 meta-data#unityplayer.UnityActivity
-ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:20:7-82
+ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:19:7-82
 	android:value
-		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:20:59-79
+		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:19:59-79
 	android:name
-		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:20:18-58
+		ADDED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:19:18-58
 uses-sdk
 INJECTED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml

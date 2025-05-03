@@ -41,6 +41,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.GridLayoutGroup
     - UnityEngine.UI.HorizontalLayoutGroup
     - UnityEngine.UI.Image
+    - UnityEngine.UI.RawImage
     - UnityEngine.UI.Text
   serializedClasses:
     Unity.TextMeshPro:
@@ -92,9 +93,15 @@ ScriptsOnlyBuild:
   - assembly: UnityEngine.CoreModule
     fullTypeName: UnityEngine.GameObject
     methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
   - assembly: Assembly-CSharp
     fullTypeName: GameController
     methodName: GenerateSlots
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
   - assembly: UnityEngine.CoreModule
     fullTypeName: UnityEngine.GameObject
     methodName: SetActive
@@ -138,6 +145,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 83
       Script: {instanceID: 0}
+    - Class: 84
+      Script: {instanceID: 0}
     - Class: 89
       Script: {instanceID: 0}
     - Class: 91
@@ -156,6 +165,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 16714}
     - Class: 114
       Script: {instanceID: 17288}
+    - Class: 114
+      Script: {instanceID: 17412}
     - Class: 114
       Script: {instanceID: 17688}
     - Class: 114
@@ -209,6 +220,10 @@ ScriptsOnlyBuild:
     - Class: 223
       Script: {instanceID: 0}
     - Class: 224
+      Script: {instanceID: 0}
+    - Class: 328
+      Script: {instanceID: 0}
+    - Class: 329
       Script: {instanceID: 0}
   scriptHashData:
   - hash:
@@ -729,7 +744,7 @@ ScriptsOnlyBuild:
     className: UnityOnPointerClickMessageListener
   - hash:
       serializedVersion: 2
-      Hash: f2ce9198ecc14d5ff33452de76d0a9e7
+      Hash: 4dc912a23d3578745805add9e4fa8aa0
     assemblyName: Assembly-CSharp
     namespaceName: 
     className: ButtonsParent
@@ -951,7 +966,7 @@ ScriptsOnlyBuild:
     className: TextMeshSpawner
   - hash:
       serializedVersion: 2
-      Hash: 3ad6d3bf33978974291cec140a50db41
+      Hash: 55b9df926946a35d02e4cae8ce77262a
     assemblyName: Assembly-CSharp
     namespaceName: 
     className: GameController

@@ -10,108 +10,102 @@
 8-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:3:3-52
 8-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:3:17-49
 9    <uses-feature
-9-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:4:3-91
-10        android:name="android.hardware.vulkan.version"
-10-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:4:17-63
+9-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:4:3-88
+10        android:name="android.hardware.touchscreen"
+10-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:4:17-60
 11        android:required="false" />
-11-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:4:64-88
+11-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:4:61-85
 12    <uses-feature
-12-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:5:3-88
-13        android:name="android.hardware.touchscreen"
-13-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:5:17-60
+12-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:5:3-99
+13        android:name="android.hardware.touchscreen.multitouch"
+13-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:5:17-71
 14        android:required="false" />
-14-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:5:61-85
+14-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:5:72-96
 15    <uses-feature
-15-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:6:3-99
-16        android:name="android.hardware.touchscreen.multitouch"
-16-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:6:17-71
+15-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:6:3-108
+16        android:name="android.hardware.touchscreen.multitouch.distinct"
+16-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:6:17-80
 17        android:required="false" />
-17-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:6:72-96
-18    <uses-feature
-18-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:7:3-108
-19        android:name="android.hardware.touchscreen.multitouch.distinct"
-19-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:7:17-80
-20        android:required="false" />
-20-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:7:81-105
-21
-22    <application android:extractNativeLibs="true" >
-22-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:8:3-22:17
-22-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:8:16-48
+17-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:6:81-105
+18
+19    <application android:extractNativeLibs="true" >
+19-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:7:3-21:17
+19-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:7:16-48
+20        <meta-data
+20-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:8:5-69
+21            android:name="unity.splash-mode"
+21-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:8:16-48
+22            android:value="0" />
+22-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:8:49-66
 23        <meta-data
-23-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:9:5-69
-24            android:name="unity.splash-mode"
-24-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:9:16-48
-25            android:value="0" />
-25-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:9:49-66
+23-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:9:5-74
+24            android:name="unity.splash-enable"
+24-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:9:16-50
+25            android:value="True" />
+25-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:9:51-71
 26        <meta-data
-26-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:10:5-74
-27            android:name="unity.splash-enable"
-27-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:10:16-50
+26-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:10:5-78
+27            android:name="unity.launch-fullscreen"
+27-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:10:16-54
 28            android:value="True" />
-28-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:10:51-71
+28-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:10:55-75
 29        <meta-data
-29-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:11:5-78
-30            android:name="unity.launch-fullscreen"
-30-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:11:16-54
-31            android:value="True" />
-31-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:11:55-75
+29-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:11:5-73
+30            android:name="android.max_aspect"
+30-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:11:16-49
+31            android:value="1.86" />
+31-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:11:50-70
 32        <meta-data
-32-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:12:5-73
-33            android:name="android.max_aspect"
-33-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:12:16-49
-34            android:value="1.86" />
-34-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:12:50-70
+32-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:12:5-85
+33            android:name="unity.render-outside-safearea"
+33-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:12:16-60
+34            android:value="False" />
+34-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:12:61-82
 35        <meta-data
-35-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:13:5-85
-36            android:name="unity.render-outside-safearea"
+35-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:13:5-84
+36            android:name="unity.auto-report-fully-drawn"
 36-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:13:16-60
-37            android:value="False" />
-37-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:13:61-82
-38        <meta-data
-38-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:14:5-84
-39            android:name="unity.auto-report-fully-drawn"
-39-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:14:16-60
-40            android:value="true" />
-40-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:14:61-81
-41
-42        <activity
-42-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:15:5-21:16
-43            android:name="com.unity3d.player.UnityPlayerActivity"
-43-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:15:15-68
-44            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
-44-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:15:211-392
-45            android:exported="true"
-45-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:15:464-487
-46            android:hardwareAccelerated="false"
-46-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:15:428-463
-47            android:launchMode="singleTask"
-47-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:15:149-180
-48            android:maxAspectRatio="1.86"
-48-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:15:181-210
-49            android:resizeableActivity="false"
-49-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:15:393-427
-50            android:screenOrientation="landscape"
-50-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:15:111-148
-51            android:theme="@style/UnityThemeSelector" >
-51-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:15:69-110
-52            <intent-filter>
-52-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:16:7-19:23
-53                <category android:name="android.intent.category.LAUNCHER" />
-53-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:17:9-69
-53-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:17:19-66
+37            android:value="true" />
+37-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:13:61-81
+38
+39        <activity
+39-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:14:5-20:16
+40            android:name="com.unity3d.player.UnityPlayerActivity"
+40-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:14:15-68
+41            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+41-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:14:211-392
+42            android:exported="true"
+42-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:14:464-487
+43            android:hardwareAccelerated="false"
+43-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:14:428-463
+44            android:launchMode="singleTask"
+44-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:14:149-180
+45            android:maxAspectRatio="1.86"
+45-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:14:181-210
+46            android:resizeableActivity="false"
+46-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:14:393-427
+47            android:screenOrientation="landscape"
+47-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:14:111-148
+48            android:theme="@style/UnityThemeSelector" >
+48-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:14:69-110
+49            <intent-filter>
+49-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:15:7-18:23
+50                <category android:name="android.intent.category.LAUNCHER" />
+50-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:16:9-69
+50-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:16:19-66
+51
+52                <action android:name="android.intent.action.MAIN" />
+52-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:17:9-61
+52-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:17:17-58
+53            </intent-filter>
 54
-55                <action android:name="android.intent.action.MAIN" />
-55-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:18:9-61
-55-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:18:17-58
-56            </intent-filter>
-57
-58            <meta-data
-58-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:20:7-82
-59                android:name="unityplayer.UnityActivity"
-59-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:20:18-58
-60                android:value="true" />
-60-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:20:59-79
-61        </activity>
-62    </application>
-63
-64</manifest>
+55            <meta-data
+55-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:19:7-82
+56                android:name="unityplayer.UnityActivity"
+56-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:19:18-58
+57                android:value="true" />
+57-->/home/abualmun/shigoto/unity/Unity-Hangman/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml:19:59-79
+58        </activity>
+59    </application>
+60
+61</manifest>

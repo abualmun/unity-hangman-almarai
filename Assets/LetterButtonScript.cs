@@ -6,6 +6,8 @@ using UnityEngine.UI;
 
 public class LetterButtonScript : MonoBehaviour
 {
+
+
     string letter;    
     public void OnButtonPressed(){
         letter = GetComponentInChildren<TMP_Text>().text;

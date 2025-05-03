@@ -6,7 +6,9 @@ using System.IO;
 using TMPro;
 using ArabicSupport;
 using UnityEngine.SceneManagement;
-
+using UnityEngine.Video;
+using System;
+using Unity.VisualScripting;
 public class GameController : MonoBehaviour
 {
     string sentence;
@@ -15,7 +17,7 @@ public class GameController : MonoBehaviour
     [SerializeField] GameObject wordPrefab;
     [SerializeField] GameObject letterPrefab;
     [SerializeField] float spaceBetweenWords;
-    int healthPoints = 4;
+    int healthPoints = 8;
     int score = 0;
     [SerializeField] Animator kidsAnimator;
     [SerializeField] Animator glassAnimator;
@@ -34,15 +36,26 @@ public class GameController : MonoBehaviour
     [SerializeField] Sprite arabicTryAgain;
     [SerializeField] Sprite englishTryAgain;
     [SerializeField] GameObject arabicSentence;
-
-
+    [SerializeField] GameObject logo;
+[SerializeField] Sprite englishLogo;
+[SerializeField] GameObject videoScreen;
+VideoPlayer videoPlayer;
+bool playVideo = false;
     // Start is called before the first frame update
     void Start()
-    {
+    {videoPlayer = GetComponent<VideoPlayer>();
         arabicSentence.SetActive(false);
             audioSource = GetComponent<AudioSource>();
     }
-
+void Update(){
+    if(videoPlayer.isPlaying || playVideo){
+        playVideo = true; 
+        if(!videoPlayer.isPlaying){
+            Win();
+            playVideo = false;
+        }
+    }
+}
     public void GenerateSlots(bool arabic){
 
 
@@ -60,6 +73,7 @@ public class GameController : MonoBehaviour
         TryLetter("ر");
 return;
         } else {
+            logo.GetComponent<Image>().sprite = englishLogo;
             language = "en";
             winScore = 14;
             sentence = "milk everyday is the smart way";
@@ -119,13 +133,15 @@ return;
 
     void RightAnswer(){
         kidsAnimator.Play("Celebrate");
+        cowAnimator.Play("happyCow");
         score++;
 
         audioSource.clip = clips[1];
         audioSource.Play();
         if (score == winScore){
-            Win();
-        }
+            videoScreen.SetActive(true);
+            videoPlayer.Play();
+                  }
     }
     void WrongAnswer(){
         glassAnimator.SetTrigger("wrong");
@@ -140,7 +156,10 @@ return;
             Lose();
         }
     }
+    
     void Win(){
+        videoScreen.SetActive(false);
+        
     if (language == "ar")   winScreen.GetComponentInChildren<SpriteRenderer>().sprite = arabicWin;
     if (language == "en")   winScreen.GetComponentInChildren<SpriteRenderer>().sprite = englishWin;
 

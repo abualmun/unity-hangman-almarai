@@ -1,35 +1,35 @@
 [
     {
-        "merged": "com.Almarai.Almarai.launcher-merged_res-5:/mipmap-xhdpi_app_icon_round.png.flat",
-        "source": "com.Almarai.Almarai.launcher-main-6:/mipmap-xhdpi/app_icon_round.png"
-    },
-    {
         "merged": "com.Almarai.Almarai.launcher-merged_res-5:/mipmap-xxxhdpi_app_icon_round.png.flat",
         "source": "com.Almarai.Almarai.launcher-main-6:/mipmap-xxxhdpi/app_icon_round.png"
+    },
+    {
+        "merged": "/home/abualmun/.gradle/daemon/7.5.1/com.Almarai.Almarai.launcher-merged_res-5:/mipmap-mdpi_app_icon_round.png.flat",
+        "source": "/home/abualmun/.gradle/daemon/7.5.1/com.Almarai.Almarai.launcher-main-6:/mipmap-mdpi/app_icon_round.png"
     },
     {
         "merged": "com.Almarai.Almarai.launcher-merged_res-5:/mipmap-hdpi_app_icon_round.png.flat",
         "source": "com.Almarai.Almarai.launcher-main-6:/mipmap-hdpi/app_icon_round.png"
     },
     {
-        "merged": "com.Almarai.Almarai.launcher-merged_res-5:/mipmap-hdpi_app_icon.png.flat",
-        "source": "com.Almarai.Almarai.launcher-main-6:/mipmap-hdpi/app_icon.png"
-    },
-    {
         "merged": "com.Almarai.Almarai.launcher-merged_res-5:/mipmap-ldpi_app_icon_round.png.flat",
         "source": "com.Almarai.Almarai.launcher-main-6:/mipmap-ldpi/app_icon_round.png"
     },
     {
-        "merged": "com.Almarai.Almarai.launcher-merged_res-5:/mipmap-xxhdpi_app_icon.png.flat",
-        "source": "com.Almarai.Almarai.launcher-main-6:/mipmap-xxhdpi/app_icon.png"
+        "merged": "/home/abualmun/.gradle/daemon/7.5.1/com.Almarai.Almarai.launcher-merged_res-5:/mipmap-hdpi_app_icon_round.png.flat",
+        "source": "/home/abualmun/.gradle/daemon/7.5.1/com.Almarai.Almarai.launcher-main-6:/mipmap-hdpi/app_icon_round.png"
     },
     {
-        "merged": "com.Almarai.Almarai.launcher-merged_res-5:/mipmap-mdpi_app_icon.png.flat",
-        "source": "com.Almarai.Almarai.launcher-main-6:/mipmap-mdpi/app_icon.png"
+        "merged": "/home/abualmun/.gradle/daemon/7.5.1/com.Almarai.Almarai.launcher-merged_res-5:/mipmap-xxxhdpi_app_icon_round.png.flat",
+        "source": "/home/abualmun/.gradle/daemon/7.5.1/com.Almarai.Almarai.launcher-main-6:/mipmap-xxxhdpi/app_icon_round.png"
     },
     {
-        "merged": "com.Almarai.Almarai.launcher-merged_res-5:/mipmap-xhdpi_app_icon.png.flat",
-        "source": "com.Almarai.Almarai.launcher-main-6:/mipmap-xhdpi/app_icon.png"
+        "merged": "/home/abualmun/.gradle/daemon/7.5.1/com.Almarai.Almarai.launcher-merged_res-5:/mipmap-hdpi_app_icon.png.flat",
+        "source": "/home/abualmun/.gradle/daemon/7.5.1/com.Almarai.Almarai.launcher-main-6:/mipmap-hdpi/app_icon.png"
+    },
+    {
+        "merged": "/home/abualmun/.gradle/daemon/7.5.1/com.Almarai.Almarai.launcher-merged_res-5:/mipmap-ldpi_app_icon_round.png.flat",
+        "source": "/home/abualmun/.gradle/daemon/7.5.1/com.Almarai.Almarai.launcher-main-6:/mipmap-ldpi/app_icon_round.png"
     },
     {
         "merged": "com.Almarai.Almarai.launcher-merged_res-5:/mipmap-xxxhdpi_app_icon.png.flat",
@@ -46,5 +46,53 @@
     {
         "merged": "com.Almarai.Almarai.launcher-merged_res-5:/mipmap-xxhdpi_app_icon_round.png.flat",
         "source": "com.Almarai.Almarai.launcher-main-6:/mipmap-xxhdpi/app_icon_round.png"
+    },
+    {
+        "merged": "/home/abualmun/.gradle/daemon/7.5.1/com.Almarai.Almarai.launcher-merged_res-5:/mipmap-xxxhdpi_app_icon.png.flat",
+        "source": "/home/abualmun/.gradle/daemon/7.5.1/com.Almarai.Almarai.launcher-main-6:/mipmap-xxxhdpi/app_icon.png"
+    },
+    {
+        "merged": "com.Almarai.Almarai.launcher-merged_res-5:/mipmap-xhdpi_app_icon_round.png.flat",
+        "source": "com.Almarai.Almarai.launcher-main-6:/mipmap-xhdpi/app_icon_round.png"
+    },
+    {
+        "merged": "/home/abualmun/.gradle/daemon/7.5.1/com.Almarai.Almarai.launcher-merged_res-5:/mipmap-xxhdpi_app_icon_round.png.flat",
+        "source": "/home/abualmun/.gradle/daemon/7.5.1/com.Almarai.Almarai.launcher-main-6:/mipmap-xxhdpi/app_icon_round.png"
+    },
+    {
+        "merged": "/home/abualmun/.gradle/daemon/7.5.1/com.Almarai.Almarai.launcher-merged_res-5:/mipmap-mdpi_app_icon.png.flat",
+        "source": "/home/abualmun/.gradle/daemon/7.5.1/com.Almarai.Almarai.launcher-main-6:/mipmap-mdpi/app_icon.png"
+    },
+    {
+        "merged": "com.Almarai.Almarai.launcher-merged_res-5:/mipmap-hdpi_app_icon.png.flat",
+        "source": "com.Almarai.Almarai.launcher-main-6:/mipmap-hdpi/app_icon.png"
+    },
+    {
+        "merged": "com.Almarai.Almarai.launcher-merged_res-5:/mipmap-xxhdpi_app_icon.png.flat",
+        "source": "com.Almarai.Almarai.launcher-main-6:/mipmap-xxhdpi/app_icon.png"
+    },
+    {
+        "merged": "com.Almarai.Almarai.launcher-merged_res-5:/mipmap-mdpi_app_icon.png.flat",
+        "source": "com.Almarai.Almarai.launcher-main-6:/mipmap-mdpi/app_icon.png"
+    },
+    {
+        "merged": "com.Almarai.Almarai.launcher-merged_res-5:/mipmap-xhdpi_app_icon.png.flat",
+        "source": "com.Almarai.Almarai.launcher-main-6:/mipmap-xhdpi/app_icon.png"
+    },
+    {
+        "merged": "/home/abualmun/.gradle/daemon/7.5.1/com.Almarai.Almarai.launcher-merged_res-5:/mipmap-xhdpi_app_icon_round.png.flat",
+        "source": "/home/abualmun/.gradle/daemon/7.5.1/com.Almarai.Almarai.launcher-main-6:/mipmap-xhdpi/app_icon_round.png"
+    },
+    {
+        "merged": "/home/abualmun/.gradle/daemon/7.5.1/com.Almarai.Almarai.launcher-merged_res-5:/mipmap-ldpi_app_icon.png.flat",
+        "source": "/home/abualmun/.gradle/daemon/7.5.1/com.Almarai.Almarai.launcher-main-6:/mipmap-ldpi/app_icon.png"
+    },
+    {
+        "merged": "/home/abualmun/.gradle/daemon/7.5.1/com.Almarai.Almarai.launcher-merged_res-5:/mipmap-xxhdpi_app_icon.png.flat",
+        "source": "/home/abualmun/.gradle/daemon/7.5.1/com.Almarai.Almarai.launcher-main-6:/mipmap-xxhdpi/app_icon.png"
+    },
+    {
+        "merged": "/home/abualmun/.gradle/daemon/7.5.1/com.Almarai.Almarai.launcher-merged_res-5:/mipmap-xhdpi_app_icon.png.flat",
+        "source": "/home/abualmun/.gradle/daemon/7.5.1/com.Almarai.Almarai.launcher-main-6:/mipmap-xhdpi/app_icon.png"
     }
 ]
